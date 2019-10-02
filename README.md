@@ -38,5 +38,5 @@ The Data Files present in this repo are of two types:
 
 ## Special Considerations
 
-- This project does not consider spyder scraped data when getting page view information using the PageView API, however spyder data could not be avoided in the Legacy data
+- This project does not consider spider/crawlers scraped data when getting page view information using the PageView API by setting the agent variable to user by default, however spider data could not be avoided in the Legacy data
 - The range of time for analysis has been hard coded into this project, for change in range you would have to change all the start and end values in every get_data() function
