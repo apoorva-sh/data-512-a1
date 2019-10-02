@@ -21,9 +21,9 @@ Two APIs have been used in this project:
 
 The Data Files present in this repo are of two types:
 
-- .json data files: These files contain the page views/counts for different sites or access-sites for a specific API in .json format. These files also contain the timestamp for the views/counts, along with details on the type of site/access-site and the agent used to generate the view/count value
+- **.json data files:** These files contain the page views/counts for different sites or access-sites for a specific API in .json format. These files also contain the timestamp for the views/counts, along with details on the type of site/access-site and the agent used to generate the view/count value
 
-- .csv data file: This file contains the final data that is analyzed in the source code. This data has the following columns:
+- **.csv data file:** This file contains the final data that is analyzed in the source code. This data has the following columns:
 
 | Column Name | Column Type | Value contained|
 |--------------|-------------|---------------|
